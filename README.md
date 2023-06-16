@@ -3,6 +3,8 @@ It is the Air lines data analysis project which is helips to find the valuable i
 behaviour so that we can opt strategies so that the business could boost.
 Some of the insights has following problem statements
 How many customers are loyal and how many are disloyal?
+![image1](https://github.com/vaibhavUsa05/Airlines_Data-Analysis/assets/108454407/e11b8c70-029b-4ff2-ba06-1b31ab2fc720)
+
 
 
 
